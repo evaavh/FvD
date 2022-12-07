@@ -111,7 +111,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  De opstart van dit vak was bij mij erg moeilijk. Ik weet van mezelf dat dit een kant van de opleiding is die ik totaal niet leuk vind,
+  maar wel een uitdaging vind om het te leren. Ik ben begonnen met de breakdownschetsen, zodat ik de verdeling van mijn code makkelijker kon 
+  opstellen. Na deze schetsen heb ik een eenvoudige verdeling gemaakt in mijn code en zo heb ik de eerste informatie van de eerste pagina kunnen
+  invullen. Hieronder heb ik een screenshot gezet van mijn breakdownschetsen.
+
+  <img src="readme-images/Schermafbeelding 2022-12-07 om 13.11.46">
+
 
 
   ### Agenda voor meeting
@@ -123,14 +129,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
+  Vragen : 
+  - mijn afbeeldingen staan niet in mijn html, wel in een goede map
+  - mag span?
+  - afbeeldingen zijn niet zichtbaar
+  - class vervangen naar wat?
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Opstel van de eerste code is goed
+  - Breakdownschetsen zijn duidelijk en kunnen helpen bij de code. 
+  - Website is veranderd ivm Black Friday, hoe ga ik dit aanpakken?
 
 </details>
 
@@ -144,7 +154,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik heb deze week echt ontzettend hard gewerkt aan mijn website. Ik heb de eerste pagina zo goed als af gekregen en ben begonnen aan de 
+  tweede pagina. Doordat ik zo druk bezig ben met mijn website, merk ik wel dat ik de opdrachten wat minder goed deed. Tijdens de les doe 
+  ik actief mee en heb gemerkt dat ik het zo daadwerkelijk ook beter begrijp. 
 
 
   ### Agenda voor meeting
@@ -156,13 +168,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
+  vragen :
+  - slide show, hoe moet dat?
+  - hoe werkt de before en after tag?
+  - nav bar maken 
+  - check marks lukken niet 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
+  - Ben erg ver met mijn werk
+  - before en after tag komt volgende week
+  - uitklapmenu in de footer samen gemaakt met Yara
 - ...
 
 </details>
