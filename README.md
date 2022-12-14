@@ -259,7 +259,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Dit was lastig/Is niet gelukt:
   De header vond ik dus erg lastig en die is niet helemaal gelukt. De footer vond ik ook lastig maar daar ben ik uiteindelijk ook wel trots op.
 
-  <img src="readme-images/Schermafbeelding 2022-12-14 om 11.55.03" width="375px" alt="bummer">
+  <img src="readme-images/header.png" width="375px" alt="bummer">
   <img src="readme-images/Schermafbeelding 2022-12-14 om 11.54.48" width="375px" alt="bummer">
 </details>
 
