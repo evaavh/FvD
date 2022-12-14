@@ -59,27 +59,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  De screenreader vertelt alles duidelijk en gaat er stap voor stap door.
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Met de tap kan je van button naar button en met de pijltjes kan je je navigeren over de website. 
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  De knoppen van tele2 zijn erg groot dus ook met de shocks was het prima te doen.
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  dark/light heeft geen verschil en met het inspecteren als je bijv kleurenblind bent dan zijn alle knoppen nog duidelijk te zien aangezien ze veel verschillende kleuren gebruiken.
 
 </details>
 
@@ -91,13 +83,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
-
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="readme-images/Schermafbeelding 2022-12-07 om 13.11.46.png" width="375px" alt="breakdown van de hele pagina">
 
 </details>
 
@@ -197,27 +183,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Screenreader leest wel de informatie van de pagina voor maar klopt niet qua sections.
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
-
-  #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Tab werkt goed, gaat van button met link naar de volgende. Muis en pijltjes bewegen goed mee en navigeren je juist door de pagina.
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Dezelfde kleuren van tele2 heb ik gebruikt dus de kleuren zijn goed te zien.
 
 </details>
 
@@ -231,7 +205,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ook deze week heb ik hard gewerkt aan mijn website. Soms was ik lang bezig en
+  dan merkte ik aan mezelf dat het niet meer lukte en ik steeds meer gefrustreerd raakte.
+  In het vervolg wil ik leren vaker pauze te nemen en na 2x proberen en het lukt niet
+  dat ik om hulp vraag en niet langer door probeer want dat komt nergens op uit. 
+  Ik ben aardig ver met mijn website, ik moet alleen nog mijn hamburgermenu en
+  mijn navigatiebalk verder uitwerken.
 
 
   ### Agenda voor meeting
@@ -247,10 +226,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Ik mag trotser zijn op mezelf
+  - Hamburger menu hoeft niet in detail, gewoon de basis 
+  - Een animatie in bijv het logo kan nog geprobeerd worden
+  - Zo goed als klaar
 
 </details>
 
@@ -264,19 +243,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/Schermafbeelding 2022-12-14 om 11.49.03" width="375px" alt="uitomst opdracht ">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Het opstarten van de opdracht vond ik erg moeilijk. Ik wist dat ik dit helemaal niet leuk vond, maar ik moest eraan beginnen.
+  Toen ik eenmaal begon vond ik het leuk omdat ik snapte wat ik aan het doen was en ging het erg goed. Tot de deadline dichterbij 
+  kwam en er enkele dingen waren die ik totaal niet voor elkaar kreeg. Ik heb geworsteld met de header en met de footer. De buttons
+  ben ik erg trots op en hoe de gehele website eruit ziet, hij lijkt bijna echt :). Ook is mijn hamburger menu aardig goed gelukt.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/Schermafbeelding 2022-12-14 om 11.52.26" width="375px" alt="top">
+  <img src="readme-images/Schermafbeelding 2022-12-14 om 11.54.02" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  De header vond ik dus erg lastig en die is niet helemaal gelukt. De footer vond ik ook lastig maar daar ben ik uiteindelijk ook wel trots op.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/Schermafbeelding 2022-12-14 om 11.55.03" width="375px" alt="bummer">
+  <img src="readme-images/Schermafbeelding 2022-12-14 om 11.54.48" width="375px" alt="bummer">
 </details>
 
 
@@ -293,5 +277,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   1. https://www.w3schools.com/css/css3_buttons.asp 
   2. https://www.w3schools.com/css/css_rwd_images.asp 
   3. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details 
+  4. https://www.educative.io/answers/how-to-create-a-navbar-using-css 
+  5. https://www.w3schools.com/tags/tag_span.asp 
+  6. https://www.flaticon.com/free-icon/shopping-basket_2636890?term=shopping%20basket&page=1&position=1&page=1&position=1&related_id=2636890&origin=search
+  7. https://extract.pics
+  8. https://codepen.io/shooft/pen/GRxXboQ 
 
 </details>
